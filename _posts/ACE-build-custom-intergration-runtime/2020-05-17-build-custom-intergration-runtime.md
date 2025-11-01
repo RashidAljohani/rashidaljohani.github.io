@@ -4,8 +4,7 @@ title:  Enrich ACE integration runtime with custom libraries
 tags: [AppConnect,open-source]
 ---
 
-![](banner.png)
-![](_posts/ACE-build-custom-intergration-runtime/banner.png)
+![]./(banner.png)
 
 App Connect Enterprise provides a lightweight integration runtime to support the enterprise's journey towards cloud-native development and adopting the containerization environment. In the following, we will build a custom ACE image based on [Red Hat Universal Base Images (UBI)](https://developers.redhat.com/products/rhel/ubi/), along with additional [LoopBack](https://loopback.io/) libraries in order to ensrich integration flows. 
 
